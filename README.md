@@ -12,6 +12,6 @@
 - Testing accuracy: test_model.py
 
 note: 
-- need to update the test_model file to specify hidden test data path
+- need to update the test_model file to specify hidden test data path (check out the TODO line in the file)
 - Other generated result removed (file too large)
 
